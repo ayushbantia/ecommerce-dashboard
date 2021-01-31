@@ -1,0 +1,16 @@
+.dashboard {
+  margin-left: 0;
+  padding: 0;
+  display: flex;
+}
+
+.dashboard__landingPage {
+  flex: 0.85;
+  margin: 0;
+  position: relative;
+  left: 15vw;
+  padding: 0;
+}
+.dashboard__graphCards {
+  display: flex;
+}

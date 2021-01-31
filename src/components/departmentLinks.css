@@ -1,0 +1,20 @@
+.departmentLinks {
+  border-bottom: 1px solid rgba(240, 240, 240, 0.3);
+  margin: 0 0 20px 0;
+  padding: 0 0 10px 0;
+}
+.departmentLinks__link {
+  color: lightgray !important;
+  margin: 5px 0;
+  padding: 0 3px;
+  font-size: 9pt;
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-decoration: none !important;
+  cursor: pointer;
+}
+.departmentLinks__heading:hover {
+  transform: scale(1.05, 1.05);
+}
